@@ -62,6 +62,7 @@
     <Compile Include="Assets\Medieval_house_lite\Fire\LightFlickerEffect.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Resources\More assets for terrain.txt" />
     <None Include="Assets\AlchemyLabProps\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
