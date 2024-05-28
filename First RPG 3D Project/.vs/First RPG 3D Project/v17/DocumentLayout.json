@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Vo_Duyen\\Documents\\Project Game Unity\\First RPG 3D Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{863280A9-6A2C-B5C9-62DE-58509DA67CA7}|Assembly-CSharp.csproj|c:\\users\\vo_duyen\\documents\\project game unity\\first rpg 3d project\\assets\\myscripts\\cursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863280A9-6A2C-B5C9-62DE-58509DA67CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\cursors.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{863280A9-6A2C-B5C9-62DE-58509DA67CA7}|Assembly-CSharp.csproj|c:\\users\\vo_duyen\\documents\\project game unity\\first rpg 3d project\\assets\\myscripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{863280A9-6A2C-B5C9-62DE-58509DA67CA7}|Assembly-CSharp.csproj|solutionrelative:assets\\myscripts\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cursors.cs",
+              "DocumentMoniker": "C:\\Users\\Vo_Duyen\\Documents\\Project Game Unity\\First RPG 3D Project\\Assets\\MyScripts\\Cursors.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\Cursors.cs",
+              "ToolTip": "C:\\Users\\Vo_Duyen\\Documents\\Project Game Unity\\First RPG 3D Project\\Assets\\MyScripts\\Cursors.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\Cursors.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAArwBsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T13:43:33.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerMove.cs",
+              "DocumentMoniker": "C:\\Users\\Vo_Duyen\\Documents\\Project Game Unity\\First RPG 3D Project\\Assets\\MyScripts\\PlayerMove.cs",
+              "RelativeDocumentMoniker": "Assets\\MyScripts\\PlayerMove.cs",
+              "ToolTip": "C:\\Users\\Vo_Duyen\\Documents\\Project Game Unity\\First RPG 3D Project\\Assets\\MyScripts\\PlayerMove.cs",
+              "RelativeToolTip": "Assets\\MyScripts\\PlayerMove.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAowDsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T02:58:17.64Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
